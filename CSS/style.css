@@ -1,0 +1,94 @@
+*
+{
+	margin: 0px;
+	padding: 0px;
+}
+header{
+
+	background-color: grey;
+	height: 240px;
+    
+}
+.container
+{ width: 858px;
+	margin: 0 auto;
+	background-color: red;
+	height: 150px;
+
+}
+.box
+{
+	background-color: blue;
+	height: 50px;
+	margin-right:20px;
+}
+.g1{
+	height: 92px;
+	width: 25%;
+	background-color: green;
+	float: left;
+}
+.g2{
+	height: 92px;
+	width: 25%;
+	background-color: orange;
+	float: left;
+}
+.g3{
+	height: 92px;
+	width: 25%;
+	background-color: aqua;
+	float: left;
+}
+.g4{
+	height: 92px;
+	width: 25%;
+	background-color: maroon;
+	float: left;
+}
+
+
+.continer
+{width: 858px;
+	margin: auto;
+	height: 50px;
+
+}
+.b1{
+	height: 100px;
+	width: 50%;
+	float: left;
+	background-color: blueviolet;
+}
+.b2{
+	height: 100px;
+	width: 50%;
+	float: left;
+	background-color: crimson;
+}
+.w1{
+	height: 50px;
+	width: 50%;
+	float: left;
+background-color: yellow;
+}
+.w2{
+	height: 50px;
+	width: 50%;
+	float: left;
+	background-color: brown;
+}
+.contaner
+{
+	height: 92px;
+	background-color: red;
+	margin: auto;
+}
+.con{
+	    width: 100%;
+    float: left;
+    margin: auto;
+    height: 50px;
+    background-color: red;
+
+}
